@@ -1,0 +1,56 @@
+## [5.0.1](https://github.com/webtorrent/ut_metadata/compare/v5.0.0...v5.0.1) (2026-05-25)
+
+
+### Bug Fixes
+
+* **deps:** update dependency bitfield to v5 ([#143](https://github.com/webtorrent/ut_metadata/issues/143)) ([26f5724](https://github.com/webtorrent/ut_metadata/commit/26f572468fead4aeeccebc83d528aac5530679db))
+
+# [5.0.0](https://github.com/webtorrent/ut_metadata/compare/v4.0.3...v5.0.0) (2026-04-14)
+
+
+### Features
+
+* Update Node.js engine requirement to version 22 ([#146](https://github.com/webtorrent/ut_metadata/issues/146)) ([1d90e41](https://github.com/webtorrent/ut_metadata/commit/1d90e4190c0a1fcf7254e9c7c9e435ace1b29766))
+
+
+### BREAKING CHANGES
+
+* requires node 22
+
+## [4.0.3](https://github.com/webtorrent/ut_metadata/compare/v4.0.2...v4.0.3) (2023-08-10)
+
+
+### Bug Fixes
+
+* **deps:** update dependency bencode to v4 ([#103](https://github.com/webtorrent/ut_metadata/issues/103)) ([a5ddef3](https://github.com/webtorrent/ut_metadata/commit/a5ddef33b3147bbb2d27ab9c9d51aba93828bfc3))
+
+## [4.0.2](https://github.com/webtorrent/ut_metadata/compare/v4.0.1...v4.0.2) (2022-12-18)
+
+
+### Bug Fixes
+
+* **deps:** update dependency bittorrent-protocol to v4.1.0 ([#85](https://github.com/webtorrent/ut_metadata/issues/85)) ([dcefd4e](https://github.com/webtorrent/ut_metadata/commit/dcefd4eb691324499743d418bf284e5b4c611d37))
+
+
+### Performance Improvements
+
+* drop rusha, buffer ([#79](https://github.com/webtorrent/ut_metadata/issues/79)) [skip ci] ([92ab67a](https://github.com/webtorrent/ut_metadata/commit/92ab67a715065716710aad59e3a9525589d1a426))
+
+## [4.0.1](https://github.com/webtorrent/ut_metadata/compare/v4.0.0...v4.0.1) (2022-12-06)
+
+
+### Bug Fixes
+
+* **deps:** update dependency bencode to v3 ([#82](https://github.com/webtorrent/ut_metadata/issues/82)) ([7857d8e](https://github.com/webtorrent/ut_metadata/commit/7857d8ed9411f4de00291169fd6e291a380ece7a))
+
+# [4.0.0](https://github.com/webtorrent/ut_metadata/compare/v3.5.2...v4.0.0) (2022-12-06)
+
+
+### Features
+
+* esm ([#80](https://github.com/webtorrent/ut_metadata/issues/80)) ([022307e](https://github.com/webtorrent/ut_metadata/commit/022307e09d6a9bc3d2f6b375a414dc0058443295))
+
+
+### BREAKING CHANGES
+
+* ESM only
